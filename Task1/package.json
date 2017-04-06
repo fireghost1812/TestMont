@@ -1,0 +1,27 @@
+{
+  "name": "Test1",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "less-plugin-autoprefix": "^1.5.1"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-less": "latest",
+    "browser-sync": "latest",
+    "browserify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-notify": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-autoprefixer": "latest"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 10 versions",
+    "ie >= 9"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "AngularJS-filter",
+  "description": "AngularJS-filter",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "latest",
+    "angular-mocks": "latest"
+  }
+}
